@@ -1,0 +1,177 @@
+[
+   {
+      "id":1,
+      "title":"Hey Jude",
+      "artist":"The Beatles",
+      "album":"Hey Jude",
+      "albumCoverUrl":"http://www.beatles.com/images/hey-jude-cover.jpg"
+    },
+    {
+      "id":2,
+      "title":"Let It Be",
+      "artist":"The Beatles",
+      "album":"Let it Be",
+      "albumCoverUrl":"http://www.beatles.com/images/let-it-be-cover.jpg"
+    },
+    {
+      "id":3,
+      "title":"Bohemian Rhapsody",
+      "artist":"Queen",
+      "album":"A Night at the Opera",
+      "albumCoverUrl":"http://www.queen.com/images/bohemian-rhapsody-cover.jpg"
+    },
+    {
+      "id":4,
+      "title":"We Will Rock You",
+      "artist":"Queen",
+      "album":"News of the World",
+      "albumCoverUrl":"http://www.queen.com/images/we-will-rock-you-cover.jpg"
+    },
+    {
+      "id":5,
+      "title":"Stairway to Heaven",
+      "artist":"Led Zeppelin",
+      "album":"Led Zeppelin IV",
+      "albumCoverUrl":"http://www.ledzeppelin.com/images/stairway-to-heaven-cover.jpg"
+    },
+    {
+      "id":6,
+      "title":"Smoke on the Water",
+      "artist":"Deep Purple",
+      "album":"Machine Head",
+      "albumCoverUrl":"http://www.deeppurple.com/images/smoke-on-the-water-cover.jpg"
+    },
+    {
+      "id":7,
+      "title":"Sweet Child O' Mine",
+      "artist":"Guns N' Roses",
+      "album":"Appetite for Destruction",
+      "albumCoverUrl":"http://www.gunsnroses.com/images/sweet-child-o-mine-cover.jpg"
+    },
+    {
+      "id":8,
+      "title":"November Rain",
+      "artist":"Guns N' Roses",
+      "album":"Use Your Illusion I",
+      "albumCoverUrl":"http://www.gunsnroses.com/images/november-rain-cover.jpg"
+    },
+    {
+      "id":9,
+      "title":"Enter Sandman",
+      "artist":"Metallica",
+      "album":"Metallica (The Black Album)",
+      "albumCoverUrl":"http://www.metallica.com/images/enter-sandman-cover.jpg"
+    },
+    {
+      "id":10,
+      "title":"Nothing Else Matters",
+      "artist":"Metallica",
+      "album":"Metallica (The Black Album)",
+      "albumCoverUrl":"http://www.metallica.com/images/nothing-else-matters-cover.jpg"
+    },
+    {
+      "id":11,
+      "title":"Highway to Hell",
+      "artist":"AC/DC",
+      "album":"Highway to Hell",
+      "albumCoverUrl":"http://www.acdc.com/images/highway-to-hell-cover.jpg"
+    },
+    {
+      "id":12,
+      "title":"Back in Black",
+      "artist":"AC/DC",
+      "album":"Back in Black",
+      "albumCoverUrl":"http://www.acdc.com/images/back-in-black-cover.jpg"
+    },
+    {
+      "id":13,
+      "title":"The Trooper",
+      "artist":"Iron Maiden",
+      "album":"Piece of Mind",
+      "albumCoverUrl":"http://www.ironmaiden.com/images/the-trooper-cover.jpg"
+    },
+    {
+      "id":14,
+      "title":"Fear of the Dark",
+      "artist":"Iron Maiden",
+      "album":"Fear of the Dark",
+      "albumCoverUrl":"http://www.ironmaiden.com/images/fear-of-the-dark-cover.jpg"
+    },
+    {
+      "id":15,
+      "title":"Baba O'Riley",
+      "artist":"The Who",
+      "album":"Who's Next",
+      "albumCoverUrl":"http://www.thewho.com/images/baba-oriley-cover.jpg"
+    },
+    {
+      "id":16,
+      "title":"My Generation",
+      "artist":"The Who",
+      "album":"My Generation",
+      "albumCoverUrl":"http://www.thewho.com/images/my-generation-cover.jpg"
+    },
+    {
+      "id":17,
+      "title":"Ace of Spades",
+      "artist":"Motorhead",
+      "album":"Ace of Spades",
+      "albumCoverUrl":"http://www.motorhead.com/images/ace-of-spades-cover.jpg"
+    },
+    {
+      "id":18,
+      "title":"Paranoid",
+      "artist":"Black Sabbath",
+      "album":"Paranoid",
+      "albumCoverUrl":"http://www.blacksabbath.com/images/paranoid-cover.jpg"
+    },
+    {
+      "id":19,
+      "title":"Sweet Home Alabama",
+      "artist":"Lynyrd Skynyrd",
+      "album":"Second Helping",
+      "albumCoverUrl":"http://www.lynyrdskynyrd.com/images/sweet-home-alabama-cover.jpg"
+    },
+    {
+      "id":20,
+      "title":"Free Bird",
+      "artist":"Lynyrd Skynyrd",
+      "album":"Pronounced Leh-Nerd Skin-Nerd",
+      "albumCoverUrl":"http://www.lynyrdskynyrd.com/images/free-bird-cover.jpg"
+    },
+    {
+      "id":21,
+      "title":"Hotel California",
+      "artist":"The Eagles",
+      "album":"Hotel California",
+      "albumCoverUrl":"http://www.theeagles.com/images/hotel-california-cover.jpg"
+    },
+    {
+      "id":22,
+      "title":"Dream On",
+      "artist":"Aerosmith",
+      "album":"Aerosmith",
+      "albumCoverUrl":"http://www.aerosmith.com/images/dream-on-cover.jpg"
+    },
+    {
+      "id":23,
+      "title":"Crazy Train",
+      "artist":"Ozzy Osbourne",
+      "album":"Blizzard of Ozz",
+      "albumCoverUrl":"http://www.ozzyosbourne.com/images/crazy-train-cover.jpg"
+    },
+    {
+      "id":24,
+      "title":"I Love Rock 'n' Roll",
+      "artist":"Joan Jett & The Blackhearts",
+      "album":"I Love Rock 'n' Roll",
+      "albumCoverUrl":"http://www.joanjett.com/images/i-love-rock-n-roll-cover.jpg"
+    },
+    {
+      "id":25,
+      "title":"Smells Like Teen Spirit",
+      "artist":"Nirvana",
+      "album":"Nevermind",
+      "albumCoverUrl":"http://www.nirvana.com/images/smells-like-teen-spirit-cover.jpg"
+    }
+]
